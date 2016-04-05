@@ -1,1 +1,2 @@
-# Re-annotated-CACdataset1
+# Re-annotated-CACdataset
+CAC datasets for Group activity Recognition
